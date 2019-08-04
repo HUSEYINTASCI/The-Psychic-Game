@@ -1,0 +1,35 @@
+
+body {background: black;} 
+canvas { 
+    display: block; 
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    z-index: -1000; 
+    font-family: 'Times New Roman', Times, serif;
+    
+} 
+* {
+    margin: 0; 
+    padding: 0;
+} 
+
+ 
+
+#Psychic{
+
+    background-color:lawngreen;
+    z-index: 20;
+    position: absolute;
+    margin: 177px 0 0 500px;
+    border-radius: 20px;
+    width: 500px;
+    text-align: center;
+    height: 255px;
+    font-size: 27px;
+}
+
+#space{
+    list-style: none;
+
+}
