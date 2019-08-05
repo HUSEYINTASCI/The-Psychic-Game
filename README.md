@@ -1,3 +1,3 @@
 # The-Psychic-Game
 
-https://huseyintasci.github.io/The-Psychic-Game/index.html
+https://huseyintasci.github.io/The-Psychic-Game/.
