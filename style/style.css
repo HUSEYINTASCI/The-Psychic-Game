@@ -17,16 +17,15 @@ canvas {
  
 
 #Psychic{
-
-    background-color:lawngreen;
-    z-index: 20;
-    position: absolute;
-    margin: 177px 0 0 500px;
-    border-radius: 20px;
-    width: 500px;
-    text-align: center;
-    height: 255px;
-    font-size: 27px;
+background-color:lawngreen;
+z-index: 20;
+position: absolute;
+margin: 177px 0 0 500px;
+border-radius: 20px;
+width: 541px;
+text-align: center;
+height: 255px;
+font-size: 27px;
 }
 
 #space{
