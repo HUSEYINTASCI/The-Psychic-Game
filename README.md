@@ -8,4 +8,4 @@ In this assignment, you'll create one of two possible computer games: Hangman or
 
 Home Page
 ===
-![alt text](https://github.com/HUSEYINTASCI/The-Psychic-Game/tree/master/style/home.gif)
+![alt text](https://github.com/HUSEYINTASCI/The-Psychic-Game/blob/master/style/home.gif)
